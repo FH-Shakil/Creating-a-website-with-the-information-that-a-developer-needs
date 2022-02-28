@@ -7,7 +7,7 @@ section{
     padding-bottom: 150px;
 }
 .top-banner{
-    background-image: url("portfolio-master/images/top-banner.png");
+    background-image: url("img/top-banner.png");
     background-repeat: no-repeat;
 }
 .half-width{
@@ -37,7 +37,7 @@ p{
     color: dimgray;
 }
 .dream-area{
-    background-image: url("portfolio-master/images/dream-bg.png");
+    background-image: url("img/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -45,7 +45,7 @@ h2{
     font-size: 40px;
 }
 .experience-area{
-    background-image: url("portfolio-master/images/exp-bg.png");
+    background-image: url("img/exp-bg.png");
    background-repeat: no-repeat;
     background-position: left;
 }
